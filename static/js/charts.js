@@ -99,7 +99,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: -0.25,
         yanchor: 'center',
-        text: 'The bar chart displays the top 10 bacterial species (OTUs)<br>with the number of samples found in your belly button',
+        text: 'The bar chart displays the top 10 bacterial species (OTUs)<br>with the number of samples found in the selected belly button',
         showarrow: false
       }]
     };

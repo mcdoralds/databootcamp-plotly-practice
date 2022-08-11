@@ -1,0 +1,15 @@
+.jumbotron {
+
+    background-image: url('../images/banner_img.png');
+    background-size: 100%;
+    text-align: center; 
+    font-size: x-large;
+    background-size: cover;
+    width: 100%;
+
+}
+
+mark {
+    background-color: rgb(212, 212, 212);
+    color: black;
+}

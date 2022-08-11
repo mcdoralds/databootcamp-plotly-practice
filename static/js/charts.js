@@ -172,7 +172,7 @@ function buildCharts(sample) {
         xanchor: 'center',
         y: 0,
         yanchor: 'center',
-        text: "The gauge displays your <br> belly button weekly washing frequency",
+        text: "The gauge displays subject's <br> belly button weekly washing frequency",
         showarrow: false
       }]
     };
